@@ -1,5 +1,7 @@
 # React-redux-socketio-chat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-redux-socketio-chat.svg)](https://greenkeeper.io/)
+
 To see the live version of the app go to http://slackclone.herokuapp.com
 
 ## Use Guide
